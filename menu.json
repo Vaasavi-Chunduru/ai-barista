@@ -1,0 +1,98 @@
+[
+  {
+    "id": "esp-01",
+    "name": "Espresso",
+    "category": "Hot Coffee",
+    "description": "A concentrated shot of rich, bold coffee with a thick crema on top.",
+    "price": 3.00,
+    "tags": ["strong", "bold", "no milk", "quick"]
+  },
+  {
+    "id": "amer-01",
+    "name": "Americano",
+    "category": "Hot Coffee",
+    "description": "Espresso diluted with hot water for a smooth, lighter-bodied coffee.",
+    "price": 3.50,
+    "tags": ["light", "no milk", "black coffee"]
+  },
+  {
+    "id": "latte-01",
+    "name": "Vanilla Latte",
+    "category": "Hot Coffee",
+    "description": "Espresso with steamed milk and a touch of sweet vanilla syrup.",
+    "price": 4.75,
+    "tags": ["sweet", "milky", "smooth", "vanilla"]
+  },
+  {
+    "id": "cap-01",
+    "name": "Cappuccino",
+    "category": "Hot Coffee",
+    "description": "Equal parts espresso, steamed milk, and thick milk foam.",
+    "price": 4.25,
+    "tags": ["foamy", "milky", "classic"]
+  },
+  {
+    "id": "mocha-01",
+    "name": "Caffe Mocha",
+    "category": "Hot Coffee",
+    "description": "Espresso with steamed milk and rich chocolate syrup, topped with whipped cream.",
+    "price": 5.00,
+    "tags": ["sweet", "chocolate", "indulgent"]
+  },
+  {
+    "id": "coldbrew-01",
+    "name": "Cold Brew",
+    "category": "Cold Coffee",
+    "description": "Slow-steeped for 20 hours, smooth and naturally sweet, served over ice.",
+    "price": 4.50,
+    "tags": ["cold", "smooth", "low acid", "iced"]
+  },
+  {
+    "id": "icedlatte-01",
+    "name": "Iced Caramel Latte",
+    "category": "Cold Coffee",
+    "description": "Chilled espresso and milk over ice with buttery caramel syrup.",
+    "price": 5.25,
+    "tags": ["cold", "sweet", "caramel", "iced"]
+  },
+  {
+    "id": "matcha-01",
+    "name": "Matcha Latte",
+    "category": "Tea",
+    "description": "Ceremonial-grade matcha whisked with steamed milk for an earthy, smooth drink.",
+    "price": 4.95,
+    "tags": ["tea", "earthy", "no coffee", "caffeine"]
+  },
+  {
+    "id": "chai-01",
+    "name": "Chai Tea Latte",
+    "category": "Tea",
+    "description": "Spiced black tea blended with steamed milk, notes of cinnamon and clove.",
+    "price": 4.65,
+    "tags": ["tea", "spiced", "no coffee", "warm"]
+  },
+  {
+    "id": "decaf-01",
+    "name": "Decaf Americano",
+    "category": "Decaf",
+    "description": "All the flavor of an Americano with the caffeine removed.",
+    "price": 3.50,
+    "tags": ["decaf", "no caffeine", "light"]
+  },
+  {
+    "id": "hchoc-01",
+    "name": "Hot Chocolate",
+    "category": "Non-Coffee",
+    "description": "Steamed milk with rich cocoa, topped with whipped cream.",
+    "price": 4.25,
+    "tags": ["no caffeine", "chocolate", "kids", "sweet"]
+  },
+  {
+    "id": "croissant-01",
+    "name": "Butter Croissant",
+    "category": "Bakery",
+    "description": "Flaky, buttery, freshly baked croissant.",
+    "price": 3.25,
+    "tags": ["pastry", "breakfast", "buttery"]
+  }
+]

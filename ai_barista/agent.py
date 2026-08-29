@@ -141,7 +141,7 @@ def get_menu(query: str) -> dict:
 # ---------------------------------------------------------------------------
 root_agent = Agent(
     name="ai_barista",
-    model="gemini-2.5-flash",
+    model="gemini-flash-latest",
     description="A friendly AI barista that recommends drinks from the coffee shop's live menu.",
     instruction="""
 You are the AI Barista for a coffee shop. Be warm, concise, and helpful.
